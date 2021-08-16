@@ -1,2 +1,2 @@
 # web-app
-簡単なwebアプリケーションを作ったJavaScript入門編
+簡単なwebアプリケーション入門編(JavaScript or GAS)
