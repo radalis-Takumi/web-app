@@ -1,3 +1,4 @@
+<script>
 const quiz = [
   {
     question: 'ゲーム市場、最も売れたゲーム機は次のうちどれ？',
@@ -76,3 +77,4 @@ for(let i = 0;i < buttonLength;i++){
     clickHandler(e);
   });
 }
+</script>
